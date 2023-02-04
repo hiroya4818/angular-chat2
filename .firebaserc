@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-chat2-7c656": {
+      "hosting": {
+        "angular-chat2": [
+          "angular-chat2-7c656"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-chat2-7c656"
+  }
+}
